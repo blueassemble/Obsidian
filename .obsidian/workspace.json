@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "fc4c622d55c9cb08",
+    "type": "split",
+    "children": [
+      {
+        "id": "b18a47899674b526",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d83c586708856b1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terraform/Terraform Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df574fb1f1a68b63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terraform/Terraform Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "331a156715290c00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terraform/Lifecycle Argument.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "614b98d05844bd33",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ccf85bd28ae1058",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f3559785cbdba84",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "34442a573896e8e9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1d85c64ff06d9f1b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4980d24c599fe87f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a0070ae86d85c6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27456327931bceb5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Terraform/Lifecycle Argument.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6c2ca82d69bee485",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Terraform/Lifecycle Argument.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3221fee7157d604c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "86e5339a053b4170",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Terraform/Lifecycle Argument.md"
+              }
+            }
+          },
+          {
+            "id": "fcf286c3669fb6d2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3f3559785cbdba84",
+  "lastOpenFiles": [
+    "Terraform/Terraform Lifecycle.md",
+    "Terraform/Terraform.md",
+    "Terraform/Terraform Overview.md",
+    "Terraform/Lifecycle Argument.md"
+  ]
+}
