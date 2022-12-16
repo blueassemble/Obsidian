@@ -11,11 +11,10 @@
             "id": "f05791f2e6abfe4a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
@@ -85,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -152,11 +147,14 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "2ddd80a5f3736a0e",
+  "active": "f05791f2e6abfe4a",
   "lastOpenFiles": [
     "Terraform/Lifecycle Argument.md",
-    "Terraform/Terraform Overview.md",
+    "README.md",
     "Terraform/Terraform Lifecycle.md",
-    "Terraform/Terraform.md"
+    "Terraform/Terraform.md",
+    "first.md",
+    "1.md",
+    "Terraform/Terraform Overview.md"
   ]
 }

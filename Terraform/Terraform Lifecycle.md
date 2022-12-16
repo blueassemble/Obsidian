@@ -14,4 +14,4 @@ Terraform provides a number of lifecycle management options that allow you to co
 For more information about the lifecycle of Terraform resources, you can refer to the Terraform documentation on [Resource Lifecycle](https://www.terraform.io/docs/configuration/resources.html#lifecycle).
 
 * BackLinks
-[[Lifecycle Argument]]
+[Lifecycle Argument](./Lifecycle%20Argument.md)

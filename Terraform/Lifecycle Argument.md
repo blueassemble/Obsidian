@@ -1,4 +1,11 @@
-[Lifecycle Argument](https://developer.hashicorp.com/terraform/language/meta-arguments/lifecycle)
+[Lifecycle Argument Docs](https://developer.hashicorp.com/terraform/language/meta-arguments/lifecycle)
+
+### In this articles
+[1. Syntax and Arguments](#syntax-and-arguments)
+[2. Custom Condition Checks](#custom-condition-checks)
+
+
+#### Syntax and Arguments
 
 In Terraform, the "lifecycle" meta-argument is a block of configuration that allows you to specify lifecycle management options for a resource. The lifecycle meta-argument can be used to control the behavior of a resource during different stages of its lifecycle, such as creation, update, and deletion.
 
@@ -28,4 +35,6 @@ resource "aws_instance" "example" {
 
 ```
 
-For more information about the lifecycle meta-argument, you can refer to the Terraform documentation on [Lifecycle](https://www.terraform.io/docs/configuration/resources.html#lifecycle).
+#### Custom Condition Checks
+
+#### Literal Values Only
