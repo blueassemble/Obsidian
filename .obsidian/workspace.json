@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "93b6fd0b117fcfd0",
+        "id": "d52942cb1b4b06ac",
         "type": "tabs",
         "children": [
           {
-            "id": "f05791f2e6abfe4a",
+            "id": "5fb24ded04c38040",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "Terraform/Lifecycle Argument.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -79,11 +80,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "86e5339a053b4170",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Terraform/Lifecycle Argument.md"
+              }
+            }
+          },
+          {
             "id": "27456327931bceb5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Terraform/Lifecycle Argument.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,9 +112,18 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "linksCollapsed": true,
+                "file": "Terraform/Lifecycle Argument.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "fcf286c3669fb6d2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           },
           {
@@ -117,26 +138,18 @@
             }
           },
           {
-            "id": "86e5339a053b4170",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "fcf286c3669fb6d2",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "2ddd80a5f3736a0e",
             "type": "leaf",
             "state": {
               "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "e4ae2b6adcf737d5",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-todoist",
               "state": {}
             }
           }
@@ -147,14 +160,42 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f05791f2e6abfe4a",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "2ddd80a5f3736a0e",
   "lastOpenFiles": [
-    "Terraform/Lifecycle Argument.md",
     "README.md",
+    "대시보드.md",
+    "Azure Virtual Desktop/AADDS vs ADDS.md",
+    "Operation Platform/Change Dahsobard/Todo.md",
+    "Operation Platform/Change Dahsobard/대시보드 통합.md",
+    "Packer/Azure.md",
+    "Packer/Overview.md",
+    "Terraform/Lifecycle Argument.md",
+    "Terraform/Providers/Grafana.md",
+    "Certification/Azure/AZ-305/Overview.md",
+    "Certification/Hashicorp/Terraform Associate.md",
+    "Certification/Untitled.md",
+    "Certification/Hashicorp",
+    "Terraform/Providers",
     "Terraform/Terraform Lifecycle.md",
     "Terraform/Terraform.md",
+    "Azure Virtual Desktop/AADDS vs ADDS image.png",
+    "Azure Virtual Desktop",
+    "Azure Cloud 운영에 필요한 요소 기획 후 중복제거, 최종 카테고리 선정.md",
+    "Operation Platform/Untitled.md",
+    "Private/Test.md",
     "first.md",
-    "1.md",
-    "Terraform/Terraform Overview.md"
+    "1.md"
   ]
 }

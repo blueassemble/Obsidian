@@ -1,0 +1,2 @@
+-   [Grafana Labs](https://grafana.com/)
+-   [Terraform Registry](https://registry.terraform.io/providers/grafana/grafana/latest/docs)

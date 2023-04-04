@@ -1,4 +1,5 @@
-[Lifecycle Argument Docs](https://developer.hashicorp.com/terraform/language/meta-arguments/lifecycle)
+#### Docs Links
+[Lifecycle Argument(Terraform Docs)](https://developer.hashicorp.com/terraform/language/meta-arguments/lifecycle)
 
 ### In this articles
 [1. Syntax and Arguments](#syntax-and-arguments)
