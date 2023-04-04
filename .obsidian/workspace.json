@@ -11,12 +11,8 @@
             "id": "5fb24ded04c38040",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terraform/Lifecycle Argument.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -84,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Terraform/Lifecycle Argument.md"
-              }
+              "state": {}
             }
           },
           {
@@ -95,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terraform/Lifecycle Argument.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Terraform/Lifecycle Argument.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,21 +166,21 @@
   },
   "active": "2ddd80a5f3736a0e",
   "lastOpenFiles": [
-    "README.md",
     "대시보드.md",
-    "Azure Virtual Desktop/AADDS vs ADDS.md",
+    "Terraform/Terraform Lifecycle.md",
     "Operation Platform/Change Dahsobard/Todo.md",
     "Operation Platform/Change Dahsobard/대시보드 통합.md",
-    "Packer/Azure.md",
     "Packer/Overview.md",
+    "Packer/Azure.md",
     "Terraform/Lifecycle Argument.md",
+    "README.md",
+    "Azure Virtual Desktop/AADDS vs ADDS.md",
     "Terraform/Providers/Grafana.md",
     "Certification/Azure/AZ-305/Overview.md",
     "Certification/Hashicorp/Terraform Associate.md",
     "Certification/Untitled.md",
     "Certification/Hashicorp",
     "Terraform/Providers",
-    "Terraform/Terraform Lifecycle.md",
     "Terraform/Terraform.md",
     "Azure Virtual Desktop/AADDS vs ADDS image.png",
     "Azure Virtual Desktop",
