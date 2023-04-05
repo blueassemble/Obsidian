@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5fb24ded04c38040",
+            "id": "1bad362efb480f8b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Packer/Azure.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -80,7 +84,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Packer/Azure.md"
+              }
             }
           },
           {
@@ -89,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Packer/Azure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Packer/Azure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,17 +172,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2ddd80a5f3736a0e",
+  "active": "1bad362efb480f8b",
   "lastOpenFiles": [
-    "대시보드.md",
-    "Terraform/Terraform Lifecycle.md",
-    "Operation Platform/Change Dahsobard/Todo.md",
-    "Operation Platform/Change Dahsobard/대시보드 통합.md",
     "Packer/Overview.md",
     "Packer/Azure.md",
+    "Azure Virtual Desktop/AADDS vs ADDS.md",
+    "Azure Virtual Desktop/ADDS/Ntds.dit Password Extraction.md",
+    "Azure Virtual Desktop/Untitled.md",
+    "Azure Virtual Desktop/ADDS",
+    "Operation Platform/Change Dahsobard/대시보드 통합.md",
+    "Operation Platform/Change Dahsobard/Todo.md",
+    "Operation Platform/Untitled Kanban.md",
+    "대시보드.md",
+    "Terraform/Terraform Lifecycle.md",
     "Terraform/Lifecycle Argument.md",
     "README.md",
-    "Azure Virtual Desktop/AADDS vs ADDS.md",
     "Terraform/Providers/Grafana.md",
     "Certification/Azure/AZ-305/Overview.md",
     "Certification/Hashicorp/Terraform Associate.md",
