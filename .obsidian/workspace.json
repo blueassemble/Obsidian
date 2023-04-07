@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "d52942cb1b4b06ac",
+        "id": "dbed993451437e52",
         "type": "tabs",
         "children": [
           {
-            "id": "1bad362efb480f8b",
+            "id": "769ea9555cedfb3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Packer/Azure.md",
+                "file": "Kubernetes/AKS/Sprint/1.1 Docker Build.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8bd073917c4053dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes/AKS/Sprint/1.1 Docker Build.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Packer/Azure.md"
+                "file": "Kubernetes/AKS/Sprint/1.1 Docker Build.md"
               }
             }
           },
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Packer/Azure.md",
+                "file": "Kubernetes/AKS/Sprint/1.1 Docker Build.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Packer/Azure.md",
+                "file": "Kubernetes/AKS/Sprint/1.1 Docker Build.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,10 +185,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1bad362efb480f8b",
+  "active": "8bd073917c4053dc",
   "lastOpenFiles": [
+    "Kubernetes/AKS/Sprint/1.2 Install Kubernetes.md",
+    "Kubernetes/AKS/Sprint/1.1 Docker Build.md",
+    "Kubernetes/AKS/Sprint/Challenges.md",
+    "Kubernetes/AKS/Sprint/Challenge.md",
+    "Kubernetes/AKS/Sprint/Docker Build.md",
+    "Kubernetes/AKS/Sprint",
+    "Kubernetes/Untitled.md",
+    "Kubernetes/AKS",
+    "Kubernetes",
+    "Terraform/Terraform.md",
+    "Terraform/Lifecycle Argument.md",
+    "Terraform/Providers/Grafana.md",
     "Packer/Overview.md",
     "Packer/Azure.md",
+    "Certification/Hashicorp/Terraform Associate.md",
     "Azure Virtual Desktop/AADDS vs ADDS.md",
     "Azure Virtual Desktop/ADDS/Ntds.dit Password Extraction.md",
     "Azure Virtual Desktop/Untitled.md",
@@ -185,21 +211,15 @@
     "Operation Platform/Untitled Kanban.md",
     "대시보드.md",
     "Terraform/Terraform Lifecycle.md",
-    "Terraform/Lifecycle Argument.md",
     "README.md",
-    "Terraform/Providers/Grafana.md",
     "Certification/Azure/AZ-305/Overview.md",
-    "Certification/Hashicorp/Terraform Associate.md",
     "Certification/Untitled.md",
     "Certification/Hashicorp",
     "Terraform/Providers",
-    "Terraform/Terraform.md",
     "Azure Virtual Desktop/AADDS vs ADDS image.png",
     "Azure Virtual Desktop",
     "Azure Cloud 운영에 필요한 요소 기획 후 중복제거, 최종 카테고리 선정.md",
     "Operation Platform/Untitled.md",
-    "Private/Test.md",
-    "first.md",
-    "1.md"
+    "Private/Test.md"
   ]
 }
