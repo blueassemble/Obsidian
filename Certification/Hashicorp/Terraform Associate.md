@@ -13,3 +13,5 @@
 - [ ] a file called *terraform.tfstate.backup*
 - [ ] directory called *terraform.workspaces.tfstate*
 - [-] directory called *terraform.tfstate.d/<workspace name*
+
+3. What d
