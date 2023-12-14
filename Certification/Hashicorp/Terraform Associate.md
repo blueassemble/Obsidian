@@ -46,3 +46,11 @@ module "vpc" {
 - [-] Use of any resource block or data block in the configuration, belonging to a particular provider
 - [-] Existence of any resource instance belonging to a particular provider in the current *state*.
 - [ ] Existence of any provider plugins found locally in the working directory.
+
+
+5. What is the purpose of using the `local-exec` provisioner? (select two)
+
+- [ ] executes a command on the resource to invoke an update to the Terraform state
+- [ ] ensures that the resource is only executed in the local infrastructure where Terraform is deployed
+- [ ] to invoke a local executable
+- [-] to execute one or more commands on the machine running Terraform
