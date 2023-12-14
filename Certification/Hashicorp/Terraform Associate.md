@@ -52,5 +52,5 @@ module "vpc" {
 
 - [ ] executes a command on the resource to invoke an update to the Terraform state
 - [ ] ensures that the resource is only executed in the local infrastructure where Terraform is deployed
-- [ ] to invoke a local executable
+- [-] to invoke a local executable
 - [-] to execute one or more commands on the machine running Terraform
