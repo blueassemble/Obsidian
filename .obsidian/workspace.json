@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bacb79fd7abb8748",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Certification/Hashicorp/Terraform Associate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/AKS/Bicep Template.md"
+                "file": "Certification/Hashicorp/Terraform Associate.md"
               }
             }
           },
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/AKS/Bicep Template.md",
+                "file": "Certification/Hashicorp/Terraform Associate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,18 +145,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/AKS/Bicep Template.md",
+                "file": "Certification/Hashicorp/Terraform Associate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "fcf286c3669fb6d2",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           },
           {
@@ -173,9 +177,17 @@
               "type": "custom-frames-todoist",
               "state": {}
             }
+          },
+          {
+            "id": "408326e6fdf644ad",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -193,7 +205,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dd0de2bee56b52f6",
+  "active": "bacb79fd7abb8748",
   "lastOpenFiles": [
     "Kubernetes/AKS/Azure Kubernetes Services Overview.md",
     "Kubernetes/Kubernetes Architecture with Diagrams.excalidraw 1.md",
