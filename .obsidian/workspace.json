@@ -8,31 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8bd073917c4053dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes/AKS/Azure Kubernetes Services Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd0de2bee56b52f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes/AKS/Bicep Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bacb79fd7abb8748",
+            "id": "51daec193f58518e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,9 +18,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "338d7ea8f0963f9e",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "staged": true
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,9 +104,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Certification/Hashicorp/Terraform Associate.md"
-              }
+              "state": {}
             }
           },
           {
@@ -128,7 +113,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Certification/Hashicorp/Terraform Associate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +129,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Certification/Hashicorp/Terraform Associate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,8 +188,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bacb79fd7abb8748",
+  "active": "2ddd80a5f3736a0e",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Certification/Azure/AZ-305/Overview.md",
+    "Certification/Azure/AZ-305",
+    "Certification/Azure",
+    "Certification/Hashicorp/Terraform Associate.md",
+    "Kubernetes/AKS/Bicep Template.md",
     "Kubernetes/AKS/Azure Kubernetes Services Overview.md",
     "Kubernetes/Kubernetes Architecture with Diagrams.excalidraw 1.md",
     "Kubernetes/Kubernetes Architecture with Diagrams.md",
@@ -214,7 +203,6 @@
     "README.md",
     "Excalidraw",
     "Untitled.canvas",
-    "Kubernetes/AKS/Bicep Template.md",
     "Kubernetes/AKS/Sprint/1.1 Docker Build.md",
     "Kubernetes/AKS/Sprint/1.2 Install Kubernetes.md",
     "Kubernetes/AKS/Sprint/Challenges.md",
@@ -228,7 +216,6 @@
     "Terraform/Providers/Grafana.md",
     "Packer/Overview.md",
     "Packer/Azure.md",
-    "Certification/Hashicorp/Terraform Associate.md",
     "Azure Virtual Desktop/AADDS vs ADDS.md",
     "Azure Virtual Desktop/ADDS/Ntds.dit Password Extraction.md",
     "Azure Virtual Desktop/Untitled.md",
@@ -237,8 +224,6 @@
     "Operation Platform/Change Dahsobard/Todo.md",
     "Operation Platform/Untitled Kanban.md",
     "대시보드.md",
-    "Terraform/Terraform Lifecycle.md",
-    "Certification/Azure/AZ-305/Overview.md",
     "Certification/Hashicorp",
     "Terraform/Providers",
     "Azure Virtual Desktop/AADDS vs ADDS image.png",
